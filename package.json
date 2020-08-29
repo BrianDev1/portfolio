@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "https://github.com/BrianDev1/portfolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Brian Rudolph",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
